@@ -2,7 +2,7 @@
 
 ### About
 
-This Universal ESP Script creates a label on top of the Head of the opponent.
+This Universal ESP Script creates a label above the Head of the opponent.
 You can enable / disable the ESP by pressing Q. You can also change this keybind inside the script.
 You can also edit different settings about the ESP Text, such as color, thickness, transparency, size, outline and team check.
 
