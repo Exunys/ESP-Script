@@ -13,12 +13,12 @@ This script shows the distance between you and the player, the name of the playe
 
 ## Script
 
-Load the script by using the code below or by copying it from [here](https://github.com/UbicastDev/ESP-Script/blob/main/ESP).
+Load the script by using the code below or by copying it from [here](https://github.com/Exunys/ESP-Script/blob/main/ESP.lua).
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/s7viVmDR"))()
 ```
 
 ## Contact information
 
-- Discord : [Aleksandar](https://discord.com/users/611111398818316309)
-- ROBLOX : [Ubicast](https://www.roblox.com/users/330279990/profile)
+- Discord : [Exunys](https://discord.com/users/611111398818316309)
+- ROBLOX : [Exunys](https://www.roblox.com/users/330279990/profile)
